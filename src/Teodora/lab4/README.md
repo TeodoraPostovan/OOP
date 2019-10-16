@@ -1,6 +1,6 @@
 
-#LAB4 *Topic: Practice with data structures.*
+# LAB4 *Topic: Practice with data structures.*
 ---
-##Objectives:
+## Objectives:
 * Practice more with objects and classes.
 * Analise suitable data struture for problem solving.
